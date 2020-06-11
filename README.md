@@ -1,5 +1,7 @@
-# I ejected part of CKEditor markdown GFM package from `i/5988` branch.  
-Here is an original readme: 
+## I got part of CKEditor markdown GFM package from `i/5988` branch.  
+
+### Here is an original readme: 
+
 GitHub Flavored Markdown support for CKEditor 5
 ===============================================
 
