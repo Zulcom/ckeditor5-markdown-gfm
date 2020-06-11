@@ -37,6 +37,5 @@
     "jsdom",
     "void-elements",
     "block-elements"
-  ],
-  "main": "src/gfmdataprocessor.js"
+  ]
 }
